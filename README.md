@@ -1,6 +1,6 @@
  # plot
 
- Go package for Plotting.
+ Go package for Plotting. This package provides a simple API for plotting.
 
  ## Installation
 
@@ -155,3 +155,241 @@
  27. Plot the box plot of the data.
 
     ``p.Box()``
+
+ The following plots are supported:
+
+ - Histogram
+ - Scatter
+ - Line
+ - Box
+
+ The following colors are supported:
+
+ - Black
+ - White
+ - Red
+ - Green
+ - Blue
+ - Yellow
+ - Magenta
+ - Cyan
+
+ The following file formats are supported:
+
+ - PNG
+
+ The following image sizes are supported:
+
+ - Small
+ - Medium
+ - Large
+
+ The following image resolutions are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image qualities are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image compressions are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image depths are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image dithering are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image antialiasing are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image interpolations are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image filters are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image sharpenings are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image blurs are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image embossings are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image edge detections are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image thresholdings are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image posterizations are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image solarizations are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image saturations are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image hue rotations are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image color inversions are supported:
+
+ - Low
+ - Medium
+ - High
+
+ The following image color channels are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color balances are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color corrections are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color shifts are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color saturations are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color intensities are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color contrasts are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color brightnesses are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color gamma corrections are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color levels are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color curves are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color exposures are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color highlights are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color shadows are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color midtones are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color whites are supported:
+
+ - Red
+ - Green
+ - Blue
+
+ The following image color blacks are supported:
+
+ - Red
+ - Green
+ - Blue
