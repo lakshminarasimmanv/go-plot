@@ -1,6 +1,6 @@
  # plot
 
- Go package for Plotting. This package provides a simple API for plotting.
+This package provides a simple API for plotting.
 
  ## Installation
 
